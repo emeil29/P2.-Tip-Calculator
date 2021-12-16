@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+ 
+body{
+    font-style: 'Dancing',sans-serif;
+    background-image: linear-gradient(rgb(75, 193, 233), blue,  navy, lightyellow, darkred);
+    margin:100px;
+}
+#btn{
+    font-size: 20px;
+}
+#container{
+    background-image: url(./image3.jpeg); 
+   background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: medium;
+    font-size: 20px;
+    border-radius: 50px;
+}
